@@ -1,0 +1,351 @@
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:52:59.055Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:52:59.082Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:53:28.982Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:53:29.031Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:54:00.134Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:54:00.150Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:54:32.041Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:54:32.048Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:55:15.058Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:55:15.060Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:55:31.683Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:55:31.691Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:55:58.360Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:55:58.412Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:56:23.347Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:56:23.350Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:56:49.311Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:56:49.346Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:57:08.849Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:57:08.861Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:57:36.733Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:57:36.734Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:57:54.801Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:57:54.806Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:58:10.720Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T11:58:10.755Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:03:21.886Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:03:21.887Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:03:31.814Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:03:31.836Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:04:33.934Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:04:33.953Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:04:49.986Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:04:49.996Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:05:05.900Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T13:05:05.903Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T15:56:38.279Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T15:56:38.294Z'
+}
+{
+  service: 'mspp-admin-concierge',
+  errno: 1,
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  message: 'Failed to initialize database: SQLITE_ERROR: no such column: environment_id',
+  stack: 'Error: SQLITE_ERROR: no such column: environment_id',
+  timestamp: '2025-06-26T16:09:01.169Z'
+}
