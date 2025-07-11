@@ -2,6 +2,29 @@
 
 A modern, comprehensive compliance checklist and monitoring dashboard for Microsoft Power Platform administrators.
 
+## Table of Contents
+
+- [Features](#features)
+- [Screenshots](#screenshots)
+  - [1. Compliance Dashboard Overview](#1-compliance-dashboard-overview)
+  - [2. Interactive Compliance Checklist](#2-interactive-compliance-checklist)
+  - [3. Checklist Management Interface](#3-checklist-management-interface)
+  - [4. Task Reporting Module](#4-task-reporting-module)
+  - [5. Task Completion Methods](#5-task-completion-methods)
+  - [6. Power Platform CLI Command Reference](#6-power-platform-cli-command-reference)
+  - [7. Comprehensive Audit Logging](#7-comprehensive-audit-logging)
+- [Architecture](#architecture)
+- [Quick Start](#quick-start)
+- [Power Platform CLI Integration](#power-platform-cli-integration)
+- [Environment-Specific Compliance Tracking](#environment-specific-compliance-tracking)
+- [Compliance Areas Covered](#compliance-areas-covered)
+- [Development](#development)
+- [Deployment](#deployment)
+- [Current Status](#current-status-✅)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+
 ## Features
 
 - 🔍 **Compliance Checklist**: Interactive checklist based on Microsoft Power Platform security and governance best practices
@@ -11,6 +34,79 @@ A modern, comprehensive compliance checklist and monitoring dashboard for Micros
 - 💾 **Persistent Backend**: Track compliance status and store historical data with audit logging
 - 🔐 **Security Focused**: Built with Azure security best practices
 - 📱 **Responsive Design**: Modern UI that works on all devices
+
+## Screenshots
+
+### 1. Compliance Dashboard Overview
+![Compliance Dashboard](./assets/001_ComplianceDashboard.png)
+
+The main dashboard provides a comprehensive overview of your Power Platform compliance status, featuring:
+- **Environment Selector**: Switch between different Power Platform environments (Development, Staging, Production)
+- **Compliance Score**: Real-time compliance percentage with visual indicators
+- **Health Metrics**: Key performance indicators and system health status
+- **Recent Activity**: Timeline of recent compliance activities and updates
+- **Quick Actions**: Fast access to common administrative tasks
+
+### 2. Interactive Compliance Checklist
+![Compliance Checklist](./assets/002_ComplianceChecklist.png)
+
+The compliance checklist interface offers:
+- **Categorized Items**: Organized compliance requirements by security domains
+- **Progress Tracking**: Visual indicators showing completion status for each item
+- **Environment Filtering**: View compliance items specific to selected environments
+- **Detailed Descriptions**: Comprehensive guidance for each compliance requirement
+- **Notes and Comments**: Add contextual information and implementation notes
+
+### 3. Checklist Management Interface
+![Checklist Management](./assets/003_Checklist_Management.png)
+
+Advanced checklist management capabilities include:
+- **Bulk Operations**: Mark multiple items as complete or update statuses
+- **Category Organization**: Group related compliance items for better organization
+- **Priority Levels**: Assign and filter by priority (High, Medium, Low)
+- **Due Date Tracking**: Set and monitor compliance deadlines
+- **Assignment Features**: Assign compliance tasks to team members
+
+### 4. Task Reporting Module
+![Task Reporting](./assets/004_Task_Reporting_Module.png)
+
+Comprehensive reporting and analytics features:
+- **Compliance Reports**: Generate detailed compliance status reports
+- **Trend Analysis**: Historical compliance data and progress tracking
+- **Export Capabilities**: Export reports in various formats (PDF, Excel, CSV)
+- **Custom Filters**: Filter reports by environment, category, date range, or status
+- **Executive Summaries**: High-level overviews for management reporting
+
+### 5. Task Completion Methods
+![Task Completion Methods](./assets/005_TaskCompleteionMethods.png)
+
+Flexible task completion workflows:
+- **Multiple Completion Options**: Various ways to mark tasks as complete
+- **Evidence Upload**: Attach documentation and evidence for compliance items
+- **Approval Workflows**: Multi-step approval processes for critical compliance items
+- **Automated Checks**: Integration with Power Platform APIs for automatic validation
+- **Review Process**: Structured review and verification procedures
+
+### 6. Power Platform CLI Command Reference
+![PAC Command List](./assets/006_PAC_Command_List.png)
+
+Integrated Power Platform CLI documentation:
+- **Searchable Commands**: Quickly find relevant Power Platform CLI commands
+- **Command Categories**: Organized by functional areas (environments, solutions, connectors, etc.)
+- **Copy-to-Clipboard**: One-click copying of command syntax
+- **Usage Examples**: Practical examples with real-world scenarios
+- **Parameter Documentation**: Detailed explanation of command parameters and options
+
+### 7. Comprehensive Audit Logging
+![Audit Logs](./assets/007_AuditLogs.png)
+
+Complete audit trail and logging system:
+- **Activity Tracking**: Detailed logs of all system activities and user actions
+- **Environment Context**: All activities tracked with specific environment information
+- **User Attribution**: Track which users performed which actions
+- **Timestamp Information**: Precise timing of all compliance activities
+- **Search and Filter**: Advanced filtering options for audit log analysis
+- **Export Capabilities**: Export audit logs for compliance reporting and analysis
 
 ## Architecture
 

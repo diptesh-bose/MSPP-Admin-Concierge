@@ -23135,3 +23135,1634 @@
   service: 'mspp-admin-concierge',
   timestamp: '2025-07-10T05:08:59.351Z'
 }
+{
+  message: 'Database tables created successfully',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.539Z'
+}
+{
+  message: 'Default data already exists, skipping insertion',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.544Z'
+}
+{
+  message: 'Database initialized successfully',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.546Z'
+}
+{
+  message: 'Database initialized successfully',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.547Z'
+}
+{
+  message: '🚀 Server running on port 5000',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.551Z'
+}
+{
+  message: '📊 Dashboard: http://localhost:5000',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.552Z'
+}
+{
+  message: '🔧 Environment: development',
+  level: 'info',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:05.553Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m5ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:22.012Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m1ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:22.019Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 20
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m20ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:22.022Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m7ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:36:22.034Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=dev',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"357-pconkLHDkTBYC0QDY6UagADHwuk"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=dev',
+      query: { environment_id: 'dev' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=dev\x1B[39m \x1B[36m304\x1B[39m \x1B[90m6ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:26.872Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=dev',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6f9-3itDvuTgpN55xWYoRR7pTz/UaDc"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=dev',
+      query: { environment_id: 'dev' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 13
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=dev\x1B[39m \x1B[36m304\x1B[39m \x1B[90m13ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:26.874Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m9ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:26.878Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m5ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:28.255Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 10
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m10ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:28.258Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m9ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:28.261Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:29.848Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m3ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:29.852Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m8ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:29.855Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 13
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m13ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:29.859Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m5ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:29.863Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:37:29.868Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.141Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.146Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m9ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.149Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.154Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m3ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.835Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 7
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m7ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.840Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m4ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.842Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 11
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m11ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.844Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m4ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.850Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m5ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:38:40.852Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m3ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:51:47.660Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:51:47.665Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m9ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:51:47.666Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/dashboard/overview',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"6bc-FutwZH7wAtpAFyOn+0mhoefVnnY"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/dashboard/overview',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/dashboard/overview\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:51:47.671Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m4ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:52:37.629Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m6ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:52:37.632Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 9
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m9ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:52:37.635Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/environments',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"1ac-BAswfSKObIFtO/0XhwG1WcQ1Sps"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/environments',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/environments\x1B[39m \x1B[36m304\x1B[39m \x1B[90m6ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:52:37.638Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/summary?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"34f-l6MPNS7jY9z0Lt9V04VBhLfNCDw"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/summary?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 6
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/summary?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m6ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:52:37.642Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/compliance/categories?environment_id=default',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"2218-ce1/iZ5a15QzPlIlStBt3dzH1hE"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/compliance/categories?environment_id=default',
+      query: { environment_id: 'default' }
+    },
+    res: { statusCode: 304 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/compliance/categories?environment_id=default\x1B[39m \x1B[36m304\x1B[39m \x1B[90m5ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:52:37.645Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/cli/commands',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/cli/commands',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 4
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/cli/commands\x1B[39m \x1B[32m200\x1B[39m \x1B[90m4ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:58:49.218Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/cli/commands/grouped',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/cli/commands/grouped',
+      query: {}
+    },
+    res: { statusCode: 200 },
+    responseTime: 8
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/cli/commands/grouped\x1B[39m \x1B[32m200\x1B[39m \x1B[90m8ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:58:49.220Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/cli/commands',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"a54-9eNEDoedmYru4Mzls66nmPQpunI"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/cli/commands',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/cli/commands\x1B[39m \x1B[36m304\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:58:49.226Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/cli/commands/grouped',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9',
+        'if-none-match': 'W/"ab3-EAVYBrGsE2W4bo1ud/FZm/RZY0k"'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/cli/commands/grouped',
+      query: {}
+    },
+    res: { statusCode: 304 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/cli/commands/grouped\x1B[39m \x1B[36m304\x1B[39m \x1B[90m3ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T03:58:49.228Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?since=2025-07-04T04:03:29.697Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?since=2025-07-04T04:03:29.697Z',
+      query: { since: '2025-07-04T04:03:29.697Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?since=2025-07-04T04:03:29.697Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m5ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:29.714Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?since=2025-07-04T04:03:29.698Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?since=2025-07-04T04:03:29.698Z',
+      query: { since: '2025-07-04T04:03:29.698Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 10
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?since=2025-07-04T04:03:29.698Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m10ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:29.719Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?action=completed&since=2025-07-04T04:03:40.598Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?action=completed&since=2025-07-04T04:03:40.598Z',
+      query: { action: 'completed', since: '2025-07-04T04:03:40.598Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?action=completed&since=2025-07-04T04:03:40.598Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m1ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:40.609Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?since=2025-07-04T04:03:42.713Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?since=2025-07-04T04:03:42.713Z',
+      query: { since: '2025-07-04T04:03:42.713Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?since=2025-07-04T04:03:42.713Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:42.720Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?since=2025-07-11T03:03:44.831Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?since=2025-07-11T03:03:44.831Z',
+      query: { since: '2025-07-11T03:03:44.831Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?since=2025-07-11T03:03:44.831Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m1ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:44.840Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?since=2025-07-10T04:03:47.775Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?since=2025-07-10T04:03:47.775Z',
+      query: { since: '2025-07-10T04:03:47.775Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?since=2025-07-10T04:03:47.775Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m1ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:47.784Z'
+}
+{
+  meta: {
+    req: {
+      url: '/api/audit/logs?since=2025-07-11T03:03:50.452Z',
+      headers: {
+        host: 'localhost:5000',
+        connection: 'keep-alive',
+        'sec-ch-ua-platform': '"Windows"',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36',
+        accept: 'application/json, text/plain, */*',
+        'sec-ch-ua': '"Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"',
+        'sec-ch-ua-mobile': '?0',
+        origin: 'http://localhost:3000',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:3000/',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/api/audit/logs?since=2025-07-11T03:03:50.452Z',
+      query: { since: '2025-07-11T03:03:50.452Z' }
+    },
+    res: { statusCode: 200 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: '\x1B[90mGET /api/audit/logs?since=2025-07-11T03:03:50.452Z\x1B[39m \x1B[32m200\x1B[39m \x1B[90m2ms\x1B[39m',
+  service: 'mspp-admin-concierge',
+  timestamp: '2025-07-11T04:03:50.462Z'
+}
